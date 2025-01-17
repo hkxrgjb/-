@@ -1,1 +1,471 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _uBVjblWVoHUb = a; end)); return(function(f,...)local o;local a;local d;local t;local r;local s;local e=24915;local n=0;local l={};while n<398 do n=n+1;while n<0x1fa and e%0x18fe<0xc7f do n=n+1 e=(e-604)%40242 local c=n+e if(e%0x178c)>=0xbc6 then e=(e*0x382)%0x3ad5 while n<0x1de and e%0x2490<0x1248 do n=n+1 e=(e+729)%34870 local a=n+e if(e%0x21c4)<=0x10e2 then e=(e-0x173)%0x8bea local e=53128 if not l[e]then l[e]=0x1 t=function(t)local e=0x01 local function l(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=r.byte(l(0x01))local e=l(e)if n=="\2"then e=d.LvKfqdOP(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then o[e]=function(n,e)return f(8,nil,f,e,n)end elseif n=="\4"then e=o[e]elseif n=="\0"then e=o[e][l(r.byte(l(0x01)))];end local n=l(0x08)d[n]=e end end end elseif e%2~=0 then e=(e+0x26a)%0x9070 local e=82467 if not l[e]then l[e]=0x1 end else e=(e*0x26c)%0x7af7 n=n+1 local e=51940 if not l[e]then l[e]=0x1 end end end elseif e%2~=0 then e=(e-0x3dc)%0xaa5a while n<0x6e and e%0x810<0x408 do n=n+1 e=(e+597)%33422 local t=n+e if(e%0x2d70)>0x16b8 then e=(e*0xd2)%0x58be local e=19158 if not l[e]then l[e]=0x1 o=getfenv and getfenv();end elseif e%2~=0 then e=(e*0x1a5)%0x2c60 local e=59435 if not l[e]then l[e]=0x1 r=string;end else e=(e*0x29b)%0x70e3 n=n+1 local e=6357 if not l[e]then l[e]=0x1 d={};end end end else e=(e-0x1f2)%0x7b17 n=n+1 while n<0x336 and e%0x4884<0x2442 do n=n+1 e=(e+349)%32190 local t=n+e if(e%0x304a)<=0x1825 then e=(e+0x1f5)%0x8b78 local e=87881 if not l[e]then l[e]=0x1 o=(not o)and _ENV or o;end elseif e%2~=0 then e=(e+0x3d4)%0x98f8 local e=35015 if not l[e]then l[e]=0x1 s=tonumber;end else e=(e*0x3cd)%0xaa73 n=n+1 local e=9170 if not l[e]then l[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\76\118\75\102\113\100\79\80\0\6\115\116\114\105\110\103\4\99\104\97\114\101\104\72\80\100\75\99\109\0\6\115\116\114\105\110\103\3\115\117\98\102\95\107\115\122\65\111\97\0\6\115\116\114\105\110\103\4\98\121\116\101\103\71\86\106\84\70\84\120\0\5\116\97\98\108\101\6\99\111\110\99\97\116\79\81\95\95\100\116\110\118\0\5\116\97\98\108\101\6\105\110\115\101\114\116\80\109\106\117\107\97\101\95\5";end end end end end e=(e*413)%48979 end t(a);local e={};for n=0x0,0xff do local l=d.ehHPdKcm(n);e[n]=l;e[l]=n;end local function c(n)return e[n];end local r=(function(f,t)local a,l=0x01,0x10 local n={{},{},{}}local o=-0x01 local e=0x01 local r=f while true do n[0x03][d.f_kszAoa(t,e,(function()e=a+e return e-0x01 end)())]=(function()o=o+0x01 return o end)()if o==(0x0f)then o=""l=0x000 break end end local o=#t while e<o+0x01 do n[0x02][l]=d.f_kszAoa(t,e,(function()e=a+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 d.Pmjukae_(n[0x01],(c((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+r)%0x100)));r=f+r;end end return d.OQ__dtnv(n[0x01])end);t(r(167,"1SoZDN;BY)TtQfv_Nv"));t(r(3,"rQkP}L5>%oZ8wEy<<EBF5Z5%5PL>Lo}<yo}5L}}o}o}i}p}kPyP}kykZM}wkwbk%Q%QPQ8Q%_ZywQQykykEE3ZyQokoP<8<Zyy<;<PyoEwEaw8y5E5Ekw!5}5>EQw<wZ8yw-85LQ85Z>8>ZPZLo<ZQo>%5oEo%%8owkkkP%o>Z%Z>8QL>o5y5w>w>Q}<LL55Lo}}}}L5L}yZy<LP}k}y}}Po}Lk<P<kok>kyk}k%k}k%<5?LQ>yEQyZ%Z%<}Vl<8goiQ^Q8<<>EoE5<Ly}EAwyEL>L>kykwowyE5ELwk8Z8>ZPZ%oPo8}o}L>Z%y8PZooZZw>P>Q>(kZk8o}%w%E%8%5>Z>w>k}ELO5o5<}o5}P8Po<#<kLy}%}5}E}PyQ}E}P}kP1k<P}boQ5PZHk,<<wg8k58k8QQEQPQkD)<<9}<ZE}<5EE<QwEwEyw%k%By%y>E8EEyU8h8t8P8Qw}w5Z0w%LLL}8yZE8QZ>Zk8O>y>o%5>}5<>ko85wkQkk%%>o%o>ZQ}>k>L>L>k>kLT5k50Pw5o}5P>L<yZ"));local e=(-1270+(function()local d,l=0,1;(function(n,o,l,e)e(o(e,n,l and n,e),e(n,n,o and e,l),e(n,e,l,l and e)and o(n,o,e and n,e),n(e,l,l,o and l))end)(function(n,o,e,t)if d>341 then return n end d=d+1 l=(l-618)%7463 if(l%888)<444 then return o(n(e,t,e,e),o(n,n,e,o),t(o,n,e,t),e(e,n,e,e))else return o end return e end,function(n,t,e,o)if d>302 then return e end d=d+1 l=(l*521)%39680 if(l%1240)<620 then l=(l+535)%49074 return e else return e(e(e,e,t,o and n),e(e,e,e,e),n(n,n,o,e and o),o(n,n,e,o))end return t(o(e,t,n,t),t(e,e,n and o,t and n),e(e,n and t,e,o),o(n,e,o,t and n))end,function(n,t,o,e)if d>240 then return n end d=d+1 l=(l+909)%25948 if(l%1560)<780 then l=(l*827)%1509 return e else return e(o(o,n and n,n,t)and e(e,n and n,e,e and e),t(o and o,t,e,n),o(o,e and o,n and n,e and o),n(e,n,e,e))end return t(e(o and t,e,e,t),n(t and n,n,e,e and o),n(n,o,e,t),n(o,e and t,t,e))end,function(n,e,o,t)if d>117 then return o end d=d+1 l=(l+190)%5398 if(l%1042)<=521 then return t else return o(o(o,o and t,o,n),e(e,n,e,e and n),n(t,o,e and e,n and t)and e(n,n,e,n),n(t,o and o,e,o and t))end return o(n(t,t,t,o),n(t,e,t,e),e(t,o,e,n),t(n,o,e,n))end)return l;end)())local le=(getfenv)or(function()return _ENV end);local u=d.dAfPgFIk or d.CSzEUEWu;local t=2;local o=3;local g=1;local c=4;local function ne(y,...)local a=r(e,"w,</?y;%N:EODlo8/,y?%oENly,y<;yP%E8,/l;%:k:8lOP/<:?%:<OElO E<l;/;<Ell<8D<%yEy%O?loL;D,8y,</D;;o8<8<;;?E<D?8NVl/;%:%DO/oEOyo/ ;/vyEDD<<?D%<%/OO8?El8O8o<Ny<lh0o/:;l??O?o,to/,,;:%EOo%Oo/N;?NOOEly8l/Ny/%D;<o/88/?y</?NOl%I,<E/:%y:lN?o?oOoy,V/;;ANE,O/8%y:%y8:AO>lE=?:ED%o/,d?:%?:DOloDf8ly:O<;yn%E+D?<;D:<O8ObD88:;;%8O8EkJ/<8;?N<O:lTTl/yy,NNE/l:H</<?lNYOk:?8/<:y,/lE^DlU?<N?%%?:;NllO,y?o;8ExDoO,,E?,;?:oO%8<</-,<l:yO/oy,?88,8;NN%:llEG,,O;?N/::l;8O,%;j%o:ylOXy,/yD%E:,l%8N58yN%;Nll/8ygO?<;EN:l<8__%?l;lNyDoolV/?3;;N,DEoN88?;;,%lD;oy8O/Nyl%:D<o*8%/oy%%yOolD8//:yE%,OElNo8/yy8;lO;l?oO/,y,;:O<lho%<ly%;y:DD?o;yo?/;E::O:OEo?&o/N;<:OO;o-PE/?y8NNO<lDv%/_yEN?Dqo8A<<Dy;N,EEl?8o/Ey%%DE;lh8D<??o%NDNoi8;<R?E%E:oD:8<<2?;%?E;D?oo,N?N;D:%Dqoo<0/o;N:<D/o;,,/E;?NoONo<#D/%;YNEO?85,y/<yDN;O;lE9?<o;ENlEDl%Te<8y?%oEN8<,y<;y,%EEyDo8O<<yo%OEWDl8?<y?N%<:DD;8<,E?y;o:OD<oD,;?R%E:?OooN,</D;N:&OES,6o/N;<NlO;o,bE/?%:NNO<lD.%/_yEN?");local n=0;d.aFnBECsM(function()d.vfaaPXFQ()n=n+1 end)local function e(e,l)if l then return n end;n=e+n;end local l,n,h=f(0,f,e,a,d.gGVjTFTx);local function r()local n,l=d.gGVjTFTx(a,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local k=true;local k=0 local function _()local o=n();local e=n();local t=1;local o=(l(e,1,20)*(2^32))+o;local n=l(e,21,31);local e=((-1)^l(e,32));if(n==0)then if(o==k)then return e*0;else n=1;t=0;end;elseif(n==2047)then return(o==0)and(e*(1/0))or(e*(0/0));end;return d.QZndRUjk(e,n-1023)*(t+(o/(2^52)));end;local p=n;local function b(n)local l;if(not n)then n=p();if(n==0)then return'';end;end;l=d.f_kszAoa(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+k),#l do e=e..d.f_kszAoa(l,n,n)end return e;end;local k=#d.EKgpMkEF(s('\49.\48'))~=1 local e=n;local function te(...)return{...},d.ECSDBHtH('#',...)end local function ee()local u={};local e={};local f={};local s={u,f,nil,e};local e=n()local a={}for o=1,e do local l=h();local n;if(l==1)then n=(h()~=#{});elseif(l==2)then local e=_();if k and d.ejcUomcw(d.EKgpMkEF(e),'.(\48+)$')then e=d.ShiHxXLw(e);end n=e;elseif(l==3)then n=b();end;a[o]=n;end;s[3]=h();for e=1,n()do f[e-(#{1})]=ee();end;for s=1,n()do local e=h();if(l(e,1,1)==0)then local d=l(e,2,3);local f=l(e,4,6);local e={r(),r(),nil,nil};if(d==0)then e[o]=r();e[c]=r();elseif(d==#{1})then e[o]=n();elseif(d==y[2])then e[o]=n()-(2^16)elseif(d==y[3])then e[o]=n()-(2^16)e[c]=r();end;if(l(f,1,1)==1)then e[t]=a[e[t]]end if(l(f,2,2)==1)then e[o]=a[e[o]]end if(l(f,3,3)==1)then e[c]=a[e[c]]end u[s]=e;end end;return s;end;local function ne(l,n,e)local o=n;local o=e;return s(d.ejcUomcw(d.ejcUomcw(({d.aFnBECsM(l)})[2],n),e))end local function oe(p,e,h)local function ee(...)local r,z,y,m,s,l,a,j,b,k,_,n;local e=0;while-1<e do if e>2 then if 4<e then if 3<e then for l=41,57 do if e~=6 then n=f(7);break;end;e=-2;break;end;else e=-2;end else if e>-1 then repeat if e~=3 then k=d.ECSDBHtH('#',...)-1;_={};break;end;j={};b={...};until true;else k=d.ECSDBHtH('#',...)-1;_={};end end else if 0<e then if-1~=e then repeat if 1<e then l=-41;a=-1;break;end;y=f(6,23,3,10,p);s=te m=0;until true;else l=-41;a=-1;end else r=f(6,43,1,2,p);z=f(6,88,2,96,p);end end e=e+1;end;for e=0,k do if(e>=y)then j[e-y]=b[e+1];else n[e]=b[e+1];end;end;local e=k-y+1 local e;local d;local function f(...)while true do end end while true do if l<-40 then l=l+42 end e=r[l];d=e[g];if d<=11 then if 5<d then if d>=9 then if 10<=d then if 8<=d then for f=36,65 do if d>10 then local f,p,k,j,_,g,b,d,z,m,y;n[e[t]]=h[e[o]];l=l+1;e=r[l];f=e[t];p=n[e[o]];n[f+1]=p;n[f]=p[e[c]];l=l+1;e=r[l];d=0;while d>-1 do if 2>=d then if 0<d then if 0<=d then repeat if d<2 then j=t;break;end;_=o;until true;else _=o;end else k=e;end else if d<=4 then if-1<=d then repeat if 4~=d then g=k[_];break;end;b=k[j];until true;else b=k[j];end else if d>=3 then repeat if d>5 then d=-2;break;end;n(b,g);until true;else n(b,g);end end end d=d+1 end l=l+1;e=r[l];f=e[t]z,m=s(n[f](u(n,f+1,e[o])))a=m+f-1 y=0;for e=f,a do y=y+1;n[e]=z[y];end;l=l+1;e=r[l];f=e[t]n[f]=n[f](u(n,f+1,a))l=l+1;e=r[l];n[e[t]]();l=l+1;e=r[l];do return end;break;end;local d,a,r,f,c;local l=0;while l>-1 do if 3>l then if 0<l then if-1<=l then repeat if 1<l then r=o;break;end;a=t;until true;else r=o;end else d=e;end else if l<5 then if 3<l then c=d[a];else f=d[r];end else if 2<l then repeat if l<6 then n(c,f);break;end;l=-2;until true;else l=-2;end end end l=l+1 end break;end;else local f,_,y,j,g,p,k,d,z,m,b;n[e[t]]=h[e[o]];l=l+1;e=r[l];f=e[t];_=n[e[o]];n[f+1]=_;n[f]=_[e[c]];l=l+1;e=r[l];d=0;while d>-1 do if 2>=d then if 0<d then if 0<=d then repeat if d<2 then j=t;break;end;g=o;until true;else g=o;end else y=e;end else if d<=4 then if-1<=d then repeat if 4~=d then p=y[g];break;end;k=y[j];until true;else k=y[j];end else if d>=3 then repeat if d>5 then d=-2;break;end;n(k,p);until true;else n(k,p);end end end d=d+1 end l=l+1;e=r[l];f=e[t]z,m=s(n[f](u(n,f+1,e[o])))a=m+f-1 b=0;for e=f,a do b=b+1;n[e]=z[b];end;l=l+1;e=r[l];f=e[t]n[f]=n[f](u(n,f+1,a))l=l+1;e=r[l];n[e[t]]();l=l+1;e=r[l];do return end;end else n(e[t],e[o]);end else if d>=7 then if 5<=d then for r=26,81 do if 7~=d then n[e[t]]=h[e[o]];break;end;if(n[e[t]]==e[c])then l=l+1;else l=e[o];end;break;end;else n[e[t]]=h[e[o]];end else local e=e[t]n[e]=n[e](u(n,e+1,a))end end else if d<=2 then if 1<=d then if d>1 then local e=e[t]n[e]=n[e](u(n,e+1,a))else for d=0,3 do if 2<=d then if 3>d then n[e[t]]=h[e[o]];l=l+1;e=r[l];else if(n[e[t]]==e[c])then l=l+1;else l=e[o];end;end else if 1>d then n[e[t]]=(e[o]~=0);l=l+1;e=r[l];else h[e[o]]=n[e[t]];l=l+1;e=r[l];end end end end else do return end;end else if d<=3 then l=e[o];else if d==5 then local l=e[t]local o,e=s(n[l](u(n,l+1,e[o])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=o[e];end;else local l=e[t]local o,e=s(n[l](u(n,l+1,e[o])))a=e+l-1 local e=0;for l=l,a do e=e+1;n[l]=o[e];end;end end end end else if 17>=d then if d<15 then if 12<d then if 13<d then local l=e[t];local o=n[e[o]];n[l+1]=o;n[l]=o[e[c]];else n[e[t]]=h[e[o]];end else l=e[o];end else if d>15 then if 13<=d then repeat if d~=16 then if(n[e[t]]==e[c])then l=l+1;else l=e[o];end;break;end;n[e[t]]();until true;else n[e[t]]();end else h[e[o]]=n[e[t]];end end else if 20>=d then if d>=19 then if d~=19 then n[e[t]]=(e[o]~=0);else n[e[t]]=(e[o]~=0);end else do return end;end else if 21>=d then h[e[o]]=n[e[t]];else if 22<d then n[e[t]]();else local t=e[t];local l=n[e[o]];n[t+1]=l;n[t]=l[e[c]];end end end end end l=1+l;end;end;return ee end;local t=0xff;local c={};local a=(1);local o='';(function(n)local l=n local r=0x00 local e=0x00 l={(function(o)if r>0x1f then return o end r=r+1 e=(e+0x1338-o)%0x10 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x32);end return true end)'oCosX'and l[0x1](0x22c+o))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xd6);end return true end)'uxVPo'and l[0x3](o+0xdd))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x75);end return true end)'mhhGx'and l[0x2](o+0x117))or o end),(function(f)if r>0x25 then return f end r=r+1 e=(e+0x79f-f)%0x2b return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x1a);o={o..'\58 a',o};c[a]=ee();a=a+((not d.jmrqjgfC)and 1 or 0);o[1]='\58'..o[1];t[2]=0xff;end return true end)'kYRrx'and l[0x3](0x223+f))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xed);end return true end)'lawAx'and l[0x2](f+0x21e))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x85);end return true end)'IjHOF'and l[0x1](f+0x354))or f end),(function(d)if r>0x30 then return d end r=r+1 e=(e+0x941-d)%0x1b return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x8c);o='\37';t={function()t()end};o=o..'\100\43';end return true end)'GOjzh'and l[0x2](0x3aa+d))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x19);c[a]=le();a=a+t;end return true end)'wFGmM'and l[0x1](d+0x191))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x84);t[2]=(t[2]*(ne(function()c()end,u(o))-ne(t[1],u(o))))+1;c[a]={};t=t[2];a=a+t;end return true end)'WYpnp'and l[0x3](d+0x209))or d end)}l[0x3](0x676)end){};local e=oe(u(c));return e(...);end return ne((function()local n={}local e=0x01;local l;if d.jmrqjgfC then l=d.jmrqjgfC(ne)else l=''end if d.ejcUomcw(l,d.mcZXvihY)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,l,o,t,d)local d;if 3>=n then if 2>n then if n~=-4 then repeat if 1~=n then do return e(1),e(4,t,o,l,e),e(5,t,o,l)end;break;end;do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;until true;else do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if-1~=n then repeat if 2~=n then do return e(1),e(4,t,o,l,e),e(5,t,o,l)end;break;end;do return 16777216,65536,256 end;until true;else do return e(1),e(4,t,o,l,e),e(5,t,o,l)end;end end else if 5>=n then if n==4 then local n=o;local t,o,d=t(2);do return function()local l,e,r,a=e(l,n(n,n),n(n,n)+3);n(4);return(a*t)+(r*o)+(e*d)+l;end;end;else local n=o;do return function()local e=e(l,n(n,n),n(n,n));n(1);return e;end;end;end else if 7>n then do return t[l]end;else if 3<=n then repeat if 7~=n then do return l(n,nil,l);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,o,t,l,n)if n then return e[n]elseif l then return e else e[o]=t end end})end until true;else do return l(n,nil,l);end end end end end end),...)
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({
+    Name = "مكتبة السكربتات",
+    HidePremium = true,
+    SaveConfig = true,
+    ConfigFolder = "MyConfigFolder",
+    IntroEnabled = true,
+    IntroText = "مرحباً بك في السكربت!",
+    CloseCallback = function()
+        print("Window closed!")
+    end
+})
+
+-- التبويب 1
+local Tab1 = Window:MakeTab({
+    Name = "مكتبة عشوائية",
+    Icon = "rbxassetid://113601298125949",
+    PremiumOnly = false
+})
+
+Tab1:AddSection({
+    Name = "سكربتات اوتو كليكر"
+})
+
+Tab1:AddButton({
+    Name = "اوتو كليكر للاجهزة القوية (للسيف فقط)", 
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%A7%D9%88%D8%AA%D9%88%20%D9%83%D9%84%D9%8A%D9%83%D8%B1"))()
+    end    
+})
+
+Tab1:AddButton({
+    Name = "اوتو كليكر للاجهزة الضعيفة (للسيف فقط)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%A7%D9%88%D8%AA%D9%88%20%D9%83%D9%84%D9%8A%D9%83%D8%B1%20(%D9%84%D9%84%D8%A7%D8%AC%D9%87%D8%B2%D8%A9%20%D8%A7%D9%84%D8%B6%D8%B9%D9%8A%D9%81%D8%A9)"))()
+    end    
+})
+
+Tab1:AddSection({
+    Name = "سكربتات ريتش (فقط للسيوف)"
+})
+
+-- دالة لإضافة أزرار السكربتات
+local function AddRichButton(name, url)
+    Tab1:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+-- إضافة سكربتات ريتش باستخدام الدالة
+AddRichButton("سكربت ريتش (1)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B1%D9%8A%D8%AA%D8%B4%201")
+AddRichButton("سكربت ريتش (2)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B1%D9%8A%D8%AA%D8%B4%202")
+AddRichButton("سكربت ريتش (3)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B1%D9%8A%D8%AA%D8%B4%203")
+AddRichButton("سكربت ريتش (4)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B1%D9%8A%D8%AA%D8%B4%204")
+AddRichButton("سكربت ريتش (5)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B1%D9%8A%D8%AA%D8%B4%205")
+AddRichButton("سكربت ريتش (6)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B1%D9%8A%D8%AA%D8%B4%206")
+AddRichButton("سكربت ريتش (7)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B1%D9%8A%D8%AA%D8%B4%207")
+
+Tab1:AddSection({
+    Name = "سكربتات عشوائية"
+})
+
+Tab1:AddButton({
+    Name = "سكربت قفل الشاشة",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%A7%D9%84%D9%82%D9%81%D9%84"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت الطيران (V3)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B7%D9%8A%D8%B1%D8%A7%D9%86"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت قفز لانهائي",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D9%82%D9%81%D8%B2%20%D9%84%D8%A7%20%D9%86%D9%87%D8%A7%D8%A6%D9%8A"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت ازالة لاق",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت الادمن",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت المربع الأزرق (ايم بوت)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%A7%D9%84%D9%85%D8%B1%D8%A8%D8%B9%20%D8%A7%D9%84%D8%A7%D8%B2%D8%B1%D9%82"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت تغير سرعة اللاعب",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت الرقصات",
+    Callback = function()
+        loadstring(game:HttpGet("https://scriptblox.com/raw/Brookhaven-RP-all-emotes-6849"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت التنقل بين الاعبين",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Infinity2346/Tect-Menu/main/Teleport%20Gui.lua'))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت عدم الموت (يعمل فقط على لمس الاشياء)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/zephyr10101/ignore-touchinterests/main/main",true))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت سحب الاشخاص",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%A7%D9%84%D8%B3%D8%AD%D8%A8"))()
+    end
+})
+
+Tab1:AddButton({
+    Name = "سكربت الكيبورد",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+    end
+})
+
+
+-- التبويب 2
+local Tab2 = Window:MakeTab({
+    Name = "بلوكس فروت",
+    Icon = "rbxassetid://74367613899635",
+    PremiumOnly = false
+})
+
+Tab2:AddParagraph("تنبيه مهم","الرجاء استخدام سيرفر خاص عند استخدام أي سكربت من هنا للحفاظ على حسابك بأمان ونحن غير مسؤلون على حسابك")
+
+Tab2:AddSection({
+    Name = "(سكربتات بدون مفتاح)"
+})
+
+local function AddRichButton(name, url)
+    Tab2:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("بلوكس فروت (Min Gaming Hub)", "https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinSeHub")
+AddRichButton("بلوكس فروت (Speed Hub X)", "https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua")
+AddRichButton("بلوكس فروت (Quantum Onyx Project)", "https://quantumonyx.xyz/MainHub/BetaTesting.lua")
+AddRichButton("بلوكس فروت (RaitoHub)", "https://raw.githubusercontent.com/Efe0626/RaitoHub/refs/heads/main/Script")
+AddRichButton("بلوكس فروت (Fai Fao Hub)", "https://raw.githubusercontent.com/PNguyen0199/Script/main/Fai-Fao-Ver2.lua")
+AddRichButton("بلوكس فروت (redz Hub)", "https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua")
+AddRichButton("بلوكس فروت (GI FullW-azure Hub)", "https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua")
+AddRichButton("بلوكس فروت (Alchemy Hub)", "https://scripts.alchemyhub.xyz")
+AddRichButton("بلوكس فروت (Ronix Hub)", "https://api.luarmor.net/files/v3/loaders/13dce5614736179317316003dc6d8fa2.lua")
+
+Tab2:AddSection({
+    Name = "سكربتات مع مفتاح"
+})
+
+local function AddRichButton(name, url)
+    Tab2:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("بلوكس فروت (Banana Cat Hub)", "https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua")
+AddRichButton("بلوكس فروت (Cokka Hub)", "https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")
+AddRichButton("بلوكس فروت (Hoho Version V4)", "https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI")
+AddRichButton("بلوكس فروت (Kncrypt Hub)", "https://raw.githubusercontent.com/Yumiara/Python/refs/heads/main/BloxFruit-XYZ.lua")
+AddRichButton("بلوكس فروت (Alchemy Hub)", "https://scripts.alchemyhub.xyz")
+
+
+local Tab3 = Window:MakeTab({
+    Name = "ماب البيوت",
+    Icon = "rbxassetid://85620198091495",
+    PremiumOnly = false
+})
+
+local function AddRichButton(name, url)
+    Tab3:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("ماب البيوت (SanderX 4.8)", "https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/New.lua")
+AddRichButton("ماب البيوت (REDz HUB)", "https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB")
+AddRichButton("ماب البيوت (JaozinBR Hub)", "https://raw.githubusercontent.com/Davizinhofprest/OaiaJaooBaodapega/refs/heads/main/6e8bf16e68877f75%20(1).txt")
+AddRichButton("ماب البيوت (Imperial Hub)", "https://raw.githubusercontent.com/Trev0rZ/LoaderM/main/ImperialHub-Working.lua")
+AddRichButton("ماب البيوت (Mango HUB)", "https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub")
+AddRichButton("ماب البيوت (SALVATORE Hub)", "https://raw.githubusercontent.com/RFR-R1CH4RD/Loader/main/Salvatore.lua")
+AddRichButton("ماب البيوت (Astro x)", "https://raw.githubusercontent.com/AstroXTeam/AstroXTeam/refs/heads/main/%D9%87%D9%84%D9%88.lua")
+AddRichButton("ماب البيوت (Rochips universal)", "https://rawscripts.net/raw/Universal-Script-rochips-universal-18294")
+AddRichButton("ماب البيوت (YHUB V3.3) (المفتاح,YFDQMASrE,)", "https://raw.githubusercontent.com/Luarmor123/community-Y-HUB/refs/heads/main/YHUB%20Brookhaven")
+AddRichButton("ماب البيوت (AstroXHub)", "https://raw.githubusercontent.com/AstroXTeam/AstroXHubNeta/refs/heads/main/Testtt")
+
+Tab3:AddSection({
+    Name = "سكربتات اخرى"
+})
+
+Tab3:AddButton({
+    Name = "ماب البيوت (مراقبة الاشخاص)",
+    Callback = function()
+        loadstring(game:HttpGet('https://pastebin.com/raw/wyvdb7gr'))()
+    end
+})
+
+Tab3:AddButton({
+    Name = "ماب البيوت (طيران السيارة)",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/hasan08122020108181818/HASA/759cc1030d8a4f4c23b32e8cb8550b47f567d1b9/carflyronald"))()
+    end
+})
+
+
+
+local Tab4 = Window:MakeTab({
+    Name = "MM2",
+    Icon = "rbxassetid://114329768142519",
+    PremiumOnly = false
+})
+
+Tab4:AddSection({
+    Name = "سكربتات mm2 (بدون مفتاح)"
+})
+
+local function AddRichButton(name, url)
+    Tab4:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("ماب mm2 (vertex)", "https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring")
+AddRichButton("ماب mm2 (XHub 3.7V)", "https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2")
+AddRichButton("ماب mm2 (Symphony Hub)", "https://raw.githubusercontent.com/ThatSick/ArrayField/main/SymphonyHub.lua")
+AddRichButton("ماب mm2 (R3TH PRIV)", "https://raw.githubusercontent.com/Dekos-lgbty/r3th/main/script")
+AddRichButton("ماب mm2 (shadow Hub)", "https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.lua")
+AddRichButton("ماب mm2 (ايم بوت)", "https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/MM2")
+
+
+
+Tab4:AddSection({
+    Name = "سكربتات mm2 (مع مفتاح)"
+})
+
+Tab4:AddButton({
+    Name = "ماب mm2 (overdrive)",
+    Callback = function()
+        loadstring(game:HttpGet("https://overdrivehub.xyz/?d=auth&script=full"))()
+    end
+})
+
+
+
+local Tab5 = Window:MakeTab({
+    Name = "ماب The Strongest",
+    Icon = "rbxassetid://97773763357410",
+    PremiumOnly = false
+})
+
+Tab5:AddSection({
+    Name = "سكربتات (بدون مفتاح)"
+})
+
+local function AddRichButton(name, url)
+    Tab5:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("ماب The Strongest (ray makk)", "https://raw.githubusercontent.com/JayXSama/ray-makk/main/Loader")
+AddRichButton("ماب The Strongest (Combat kill tpbring)", "https://raw.githubusercontent.com/Scripterbacon/TSBobfuscator/main/Main.Lua")
+AddRichButton("ماب The Strongest (سكربت اوتو ايم)", "https://raw.githubusercontent.com/tapboundcc/tapbound/main/camlock/by%20%23xvsfi'")
+
+
+Tab5:AddSection({
+    Name = "سكربتات (مع مفتاح)"
+})
+
+local function AddRichButton(name, url)
+    Tab5:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+AddRichButton("ماب The Strongest (Zenon Super W.L.P)", "https://pastefy.app/gbwEzNX4/raw")
+AddRichButton("ماب The Strongest (NS HUI)", "https://raw.githubusercontent.com/HenSeu87PofghYT/ALL-IN-ONE/main/NSHUBV2")
+
+
+
+local Tab6 = Window:MakeTab({
+    Name = "تخريب",
+    Icon = "rbxassetid://134484331149838",
+    PremiumOnly = false
+})
+
+Tab6:AddParagraph(ملاحظة مهمة,"تعمل السكربتات على المابات التي يمكنك لمس الاعبين")
+
+Tab6:AddSection({
+    Name = "سكربتات (fling لاعب واحد)"
+})
+
+
+local function AddRichButton(name, url)
+    Tab6:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+
+AddRichButton("تخريب طيران لاعب واحد(1)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20fling%201")
+AddRichButton("تخريب طيران لاعب واحد(2)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20fling%202")
+AddRichButton("تخريب طيران لاعب واحد(3)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20fling%203")
+
+
+Tab6:AddSection({
+    Name = "سكربتات (fling جميع في السيرفر)"
+})
+
+local function AddRichButton(name, url)
+    Tab6:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("تخريب طيران الجميع (1)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B9")
+AddRichButton("تخريب طيران الجميع (2)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B9%202")
+AddRichButton("تخريب طيران الجميع (3)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%AC%D9%85%D9%8A%D8%B9%203")
+
+
+Tab6:AddSection({
+    Name = "سكربتات (fling عند المس)"
+})
+
+local function AddRichButton(name, url)
+    Tab6:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("تخريب طيران عند المس (1)", "https://raw.githubusercontent.com/hkxrgjb/Script-library/main/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA%20fling%20%D8%B9%D9%86%D8%AF%20%D8%A7%D9%84%D9%85%D8%B3")
+AddRichButton("تخريب طيران عند المس (2)", "https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI")
+
+
+local Tab7 = Window:MakeTab({
+    Name = "Build A Boat",
+    Icon = "rbxassetid://87031803528835",
+    PremiumOnly = false
+})
+
+
+Tab7:AddSection({
+    Name = "سكربتات ماب (Build A Boat)"
+})
+
+
+local function AddRichButton(name, url)
+    Tab7:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("ماب Build A Boat (Treasure.exe)", "https://raw.githubusercontent.com/XRoLLu/UWU/main/BUILD%20A%20BOAT%20FOR%20TREASURE.lua")
+AddRichButton("ماب Build A Boat (المفتاح:N-161803)", "https://raw.githubusercontent.com/novakoolhub/Scripts/main/Scripts/NovBoatR1")
+AddRichButton("ماب Build A Boat (Build A Boat For Treasure)", "https://rawscripts.net/raw/Build-A-Boat-For-Treasure-BBFT-Script-24996")
+
+
+local Tab8 = Window:MakeTab({
+    Name = "Lumber Tycoon 2",
+    Icon = "rbxassetid://84270327727161",
+    PremiumOnly = false
+})
+
+
+Tab8:AddSection({
+    Name = "سكربتات (بدون مفتاح)"
+})
+
+
+local function AddRichButton(name, url)
+    Tab8:AddButton({
+        Name = name,
+        Callback = function()
+            loadstring(game:HttpGet(url))()
+        end
+    })
+end
+
+
+AddRichButton("ماب Lumber Tycoon 2 (LuaWare V4.3)", "https://raw.githubusercontent.com/frencaliber/LuaWareLoader.lw/main/luawareloader.wtf")
+AddRichButton("ماب Lumber Tycoon 2 (Kron Hub)", "https://raw.githubusercontent.com/DevKron/Kron_Hub/refs/heads/main/version_1.0")
+AddRichButton("ماب Lumber Tycoon 2 (Butter)", "https://raw.githubusercontent.com/Butterisgood/Butter/main/Root2.lua")
+AddRichButton("ماب Lumber Tycoon 2 (darkx crack)", "https://raw.githubusercontent.com/x0x37x/darkx-crack/refs/heads/main/crack.lua")
+AddRichButton("ماب Lumber Tycoon 2 (AncestorPublic)", "https://raw.githubusercontent.com/MrDizzler1/Ancestor/refs/heads/main/AncestorPublic")
+
+Tab8:AddButton({
+    Name = "ماب Lumber Tycoon 2 (BUTTER V3)",
+    Callback = function()
+        loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/Butter%20V3%20Testers.txt'))("early access")
+wait(1)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter-Cuties/main/Other/Maid'))("early access")
+    end
+})
+
+
+
+-- تشغيل واجهة المكتبة
+OrionLib:Init()
