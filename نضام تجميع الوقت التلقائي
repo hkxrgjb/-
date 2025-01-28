@@ -1,5 +1,6 @@
 --// المتغيرات \\--
-if requiredKey ~= "KEY_BDJ28SH27SG21" then
+
+if requiredKey ~= "KEY_BDJ762BDJ" then
     print("المفتاح غير صحيح. لا يمكن تشغيل السكربت.")
     return -- إنهاء السكربت إذا كان المفتاح غير صحيح
 else
@@ -10,15 +11,7 @@ local targetPosition = Vector3.new(-685.26, 5.15, -7.24) -- الإحداثيات
 local newGameId = 15919022315 -- ID الماب الجديد
 local excludedGameId = 15919022315 -- ID الماب الذي تعمل فيه وظيفة الانتقال فقط
 
---// التحقق من المفتاح \\--
-if userKey ~= requiredKey then
-    print("المفتاح غير صحيح. لا يمكن تشغيل السكربت.")
-    return -- إنهاء السكربت إذا كان المفتاح غير صحيح
-else
-    print("تم التحقق من المفتاح بنجاح! يتم الآن تشغيل السكربت.")
-end
-
---// باقي السكربت \\--
+-- باقي السكربت هنا
 
 --// البحث عن الكتلة \\--
 local function findZone()
